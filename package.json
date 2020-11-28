@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/anton-gorbunov/food/issues"
   },
-  "homepage": "https://github.com/anton-gorbunov/food#readme"
+  "homepage": "https://github.com/anton-gorbunov/food#readme",
+  "devDependencies": {
+    "json-server": "^0.16.3"
+  }
 }
