@@ -29,9 +29,3 @@ window.addEventListener('DOMContentLoaded',() => {
     timer('.timer','2020-12-31');
     cards();
 });
-
-
-/* mkdir webpack-demo
-cd webpack-demo
-npm init -y
-npm install webpack webpack-cli --save-dev */
